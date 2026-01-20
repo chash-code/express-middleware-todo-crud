@@ -1,0 +1,21 @@
+```json
+{
+  "todos": [
+    {
+      "todoId": "1",
+      "title": "Complete middleware assignment",
+      "completed": false
+    },
+    {
+      "todoId": "2",
+      "title": "Study Express.js middleware",
+      "completed": true
+    },
+    {
+      "todoId": "3",
+      "title": "Build rate limiting feature",
+      "completed": false
+    }
+  ]
+}
+```
