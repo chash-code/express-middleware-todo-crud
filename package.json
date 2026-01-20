@@ -1,0 +1,21 @@
+```json
+{
+  "name": "express-middleware-todo-crud",
+  "version": "1.0.0",
+  "description": "Express.js middleware assignment with Todo CRUD operations",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["express", "middleware", "crud", "rest-api", "rate-limiting"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
+```
